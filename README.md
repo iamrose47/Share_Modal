@@ -17,5 +17,7 @@ Technologies Used
 
 Demo  
 Check out the live demo of the project:
-[click here](https://modalbyrose.netlify.app/) 
+[click here](https://modalbyrose.netlify.app/)   
+![image](https://github.com/user-attachments/assets/40570160-9bf3-430a-958e-5355fd2904ab)
+
 
